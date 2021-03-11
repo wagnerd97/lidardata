@@ -15,7 +15,7 @@ _global_script_class_icons={
 
 [application]
 
-config/name="capstoneDisplayer"
+config/name="LIDARDisplay"
 run/main_scene="res://Scenes/Spatial.tscn"
 config/icon="res://icon.png"
 
