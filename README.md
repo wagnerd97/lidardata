@@ -1,8 +1,12 @@
-# lidardata
-Program and data of LIDAR scans to be used for enjoyment and interaction
-
-Instructions
+# Instructions
 --------------------------------------------------------------------
+
+# Controls
+
+![plot](./metadata/keyboardLayout.png)
+
+
+# Installation Instructions
 
 Project is provided as source code for maximum compatibility
 with all operating systems. The following instructions describe how to download
@@ -17,7 +21,7 @@ The game engine is self contained and does not require installation
 
 ## Step 2
 
-Download ZIP file of the repository
+Download the ZIP file of the repository from this GitHub page
 
 
 ![plot](./metadata/downloadZIP.png)
@@ -33,26 +37,31 @@ Launch Godot
 ## Step 5
 
 press the import button
+
 ![plot](./metadata/selectImport.png)
 
 ## Step 6
 
 press browse to open a file explorer
+
 ![plot](./metadata/clickBrowse.png)
 
 ## Step 7
 
-navigate to the lidardata folder
+navigate to the lidardata folder we un-ZIPed in step 3
+
 ![plot](./metadata/lidardataFile.png)
 
 ## Step 8
 
 within the lidardata folder navigate into the LIDARDisplay folder
+
 ![plot](./metadata/lidarDisplayFile.png)
 
 ## Step 9
 
 within the LIDARDisplay folder select and open the project.godot file
+
 ![plot](./metadata/projectgodotfile.png)
 
 ## Step 10
@@ -63,6 +72,7 @@ Press the "Import & Edit" button
 
 The game engine should open. when it does you can launch the game by pressing
 the play button in the top right corner of the screen
+
 ![plot](./metadata/godotPlayButton.png)
 
 ## Step 12
