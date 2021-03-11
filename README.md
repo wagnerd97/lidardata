@@ -17,3 +17,4 @@ The game engine is self contained and does not require installation
 
 ## Step 2
 
+![plot](./metadata/downloadZIP.png)
