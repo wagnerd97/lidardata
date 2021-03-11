@@ -106,4 +106,4 @@ represents then:
 
 - Open a file explorer 
 - navigate to the "ScansAndPictures" folder
-- open any available .png files in a photo viewing application
+- open the corresponding .png file in a photo viewing application
