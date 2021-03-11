@@ -29,15 +29,12 @@ __meta__ = {
 
 [node name="FileDialog" type="FileDialog" parent="Control"]
 visible = true
-margin_left = 53.0
-margin_top = 39.0
-margin_right = 698.0
-margin_bottom = 501.0
+margin_left = 184.032
+margin_top = 76.7976
+margin_right = 829.032
+margin_bottom = 538.798
 window_title = "Open a File"
 mode = 0
-access = 2
-current_dir = "/Users"
-current_path = "/Users/"
 __meta__ = {
 "_edit_use_anchors_": false
 }

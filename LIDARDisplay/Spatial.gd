@@ -14,19 +14,16 @@ var useTimer = true
 
 func _ready():
 	
-	#OS.shell_open(str("file://")) #open file explorer
 	self.set_notify_transform(true)
-	#for i in range(10):
-	#	points.append(meshTemplate.instance());
-	#	add_child(points[i]);
-	#	points[i].translation.x = i*2;
-	#	points[i].translation.y = i*2 + 10;
-	#	points[i].translation.z = i*2;
-	#	points[i].visible = true;
 	
 	var mesh = meshTemplate.instance();
 	add_child(mesh);
 	
+	get_node("Control/FileDialog").access = 2
+	get_node("Control/FileDialog").add_filter("*.dat ; Point Cloud files")
+	get_node("Control/FileDialog").current_dir = "res://../../ScansAndPictures"
+	get_node("Control/FileDialog").current_file = ""
+	get_node("Control/FileDialog").current_path = "res://"
 	get_node("Control/FileDialog").popup()
 	
 
