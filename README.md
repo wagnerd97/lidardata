@@ -96,5 +96,14 @@ Then navigate into the "ScansAndPictures" folder
 
 ## Step 13
 
-From this folder select any available .dat file and it will begin to be rendered in the
-game window
+From this folder select any available .dat file and an animation will begin that draws the
+image at ~2x the speed it was gathered at. (This can be skipped by pressing Enter)
+
+## Step 14
+
+If you would like to compare the scan to a photogrpahed image of the space it
+represents then:
+
+- Open a file explorer 
+- navigate to the "ScansAndPictures" folder
+- open any available .png files in a photo viewing application
