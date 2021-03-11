@@ -33,6 +33,7 @@ Un-ZIP the repository and note the location
 ## Step 4
 
 Launch Godot
+
 Note: on Mac OS the message "Can't be opened because it is from an
 unidentified developer" may prevent the use of Godot
 
