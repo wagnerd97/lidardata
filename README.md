@@ -18,6 +18,8 @@ The game engine is self contained and does not require installation
 ## Step 2
 
 Download ZIP file of the repository
+
+
 ![plot](./metadata/downloadZIP.png)
 
 ## Step 3
