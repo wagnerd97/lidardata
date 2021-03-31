@@ -54,6 +54,8 @@ To bypass this follow these steps:
 - Open your computer system preferences > Security & Privacy > Privacy
 - Here you should see an option to "Allow Anyway" next to the Godot application
 
+This may vary between different versions of iOS
+
 ## Step 5
 
 press the import button
