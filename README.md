@@ -1,3 +1,16 @@
+# Overview
+--------------------------------------------------------------------
+
+This repository contains the data gathered from a LIDAR based mapping system.
+The system was placed in numerous locations and scans were taken with a
+resolution of 1 degree. This repository is intended for anyone interested
+in personally viewing the data collected.
+
+For more information on how this system gathered data and how you could
+construct your own, please contact Dustin Wagner on discord at:
+Dustin#0839
+
+
 # Instructions
 --------------------------------------------------------------------
 
