@@ -1,13 +1,16 @@
 # Overview
 --------------------------------------------------------------------
 
-This repository contains the data gathered from a LIDAR based mapping system.
+This repository contains the data gathered from a LIDAR based mapping system
+as well as a program that can be used to view the data in an interactive
+manner.
 The system was placed in numerous locations and scans were taken with a
 resolution of 1 degree at various fields of view. This repository is intended
 for anyone interested in personally viewing the data collected.
 
-For more information on how this system gathered data and how you could
-construct your own, please contact Dustin Wagner on discord at:
+The system used to gather this data was designed and built by Dustin Wagner
+and Darienne Johnson. For more information on how this system gathered data 
+and how you could build your own system, please contact Dustin Wagner on discord at:
 
 Dustin#0839
 
@@ -93,14 +96,14 @@ Press the "Import & Edit" button
 
 ## Step 11
 
-The game engine should open. when it does you can launch the game by pressing
+Godot should open. when it does you can launch the program by pressing
 the play button in the top right corner of the screen
 
 ![plot](./metadata/godotPlayButton.png)
 
 ## Step 12
 
-When the game loads, it will open a Godot file explorer. On Windows this file explorer
+When the program loads, it will open a Godot file explorer. On Windows this file explorer
 should open to the folder "ScansAndPictures". On Mac OS, The folder that opens may
 be "LIDARDisplay". in this case navigate up
 
