@@ -43,10 +43,10 @@ The game engine is self contained and does not require installation
 
 ## Step 2
 
-Download the ZIP file of this lidardata repository from GitHub
+Download the ZIP file of this lidardata repository from GitHub as in the 
+following picture or by clicking the following link:
 
 https://github.com/wagnerd97/lidardata/archive/refs/heads/main.zip
-
 ![plot](./metadata/downloadZIP.png)
 
 ## Step 3
