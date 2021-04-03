@@ -27,7 +27,12 @@ Dustin#0839
 
 Project is provided as source code for maximum compatibility
 with all operating systems. The following instructions describe how to download
-and use the software.
+and use everything needed to interact with the data collected.
+
+This includes downloading 2 pieces of software:
+The first is the Godot game engine used to run our program.
+The second is the the lidardata program that we have created. This will be 
+downloaded as a Zip file from this page.
 
 ## Step 1
 
@@ -40,6 +45,7 @@ The game engine is self contained and does not require installation
 
 Download the ZIP file of this lidardata repository from GitHub
 
+https://github.com/wagnerd97/lidardata/archive/refs/heads/main.zip
 
 ![plot](./metadata/downloadZIP.png)
 
