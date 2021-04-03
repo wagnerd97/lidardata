@@ -55,7 +55,7 @@ Note: on Mac OS the message "Can't be opened because it is from an
 unidentified developer" may prevent the use of Godot
 
 To bypass this follow these steps:
-- Open your computer system preferences > Security & Privacy > Privacy
+- Open your computer system preferences > Security & Privacy > General
 - Here you should see an option to "Allow Anyway" next to the Godot application
 
 This may vary between different versions of iOS
@@ -125,4 +125,4 @@ represents then:
 
 - Open a file explorer 
 - navigate to the "ScansAndPictures" folder
-- open the corresponding .png file in a photo viewing application
+- open the corresponding .jpg file in a photo viewing application
