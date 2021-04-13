@@ -8,11 +8,20 @@ The system was placed in numerous locations and scans were taken with a
 resolution of 1 degree at various fields of view. This repository is intended
 for anyone interested in personally viewing the data collected.
 
+The data can be viewed in a video form on youtube:
+https://www.youtube.com/watch?v=IuVW84EPHkI
+
 The system used to gather this data was designed and built by Dustin Wagner
 and Darienne Johnson. For more information on how this system gathered data 
 and how you could build your own system, please contact Dustin Wagner on discord at:
 
 Dustin#0839
+
+Our Linkedin pages:
+Dustin
+    https://www.linkedin.com/in/dustin-wagner-71b47b162
+Darienne
+    https://www.linkedin.com/in/darienne-johnson-995377157
 
 
 # Instructions
