@@ -17,10 +17,11 @@ and how you could build your own system, please contact Dustin Wagner on discord
 
 Dustin#0839
 
-Our Linkedin pages:
+Our Linkedin pages can be found here:
+
 Dustin
     https://www.linkedin.com/in/dustin-wagner-71b47b162
-    
+
 Darienne
     https://www.linkedin.com/in/darienne-johnson-995377157
 
